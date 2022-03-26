@@ -18,7 +18,7 @@
   "devDependencies": {
     "babel-preset-expo": "~8.0.0",
     "@babel/core": "^7.0.0",
-    "minimist": "^1.2.3",
+    "minimist": "^1.2.6",
     "mem": ">=4.0.0",
     "lodash": ">=4.17.19"
   },
